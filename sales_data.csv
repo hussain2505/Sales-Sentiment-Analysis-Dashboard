@@ -1,0 +1,11 @@
+Order_Date,Region,Product,Sales,Quantity,Review
+2025-01-05,North,Laptop,50000,2,Excellent performance and quality
+2025-01-10,South,Mobile,25000,3,Good product value for money
+2025-02-15,East,Tablet,18000,2,Average battery backup
+2025-03-01,West,Laptop,52000,1,Excellent speed and design
+2025-03-18,North,Mobile,24000,4,Very useful and amazing
+2025-04-10,South,Tablet,15000,2,Poor performance
+2025-05-05,East,Laptop,55000,1,Excellent product
+2025-06-12,West,Mobile,26000,3,Good quality
+2025-07-15,North,Tablet,17000,2,Bad battery life
+2025-08-20,South,Laptop,60000,2,Excellent performance
